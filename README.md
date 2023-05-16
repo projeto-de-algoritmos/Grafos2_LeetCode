@@ -1,44 +1,52 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercicios - LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0028677 |  Vitor Manoel Aquino de Brito |
+
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+Este repositório contém a resolução de 3 exercicios relacionados a Grafos, contemplando os algoritmos de Dijkstra (com array e fila de prioridade) e o algoritmo de Prim (com fila de prioridade). Os Exercicios realizados foram retirados do [LeetCode](https://leetcode.com/)
+
+##[Link da Apresentação]()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+## Exercicio 1 - Network Delay Time
+
+Dificuldade: Médio
+Link: [Network Delay time](https://leetcode.com/problems/network-delay-time/)
+
+![](img/ex1.png)
+
+## Exercicio 2 - Reachable Nodes in Subdivided Graph
+Dificuldade: Difícil
+Link: [Reachable Nodes in Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
+
+![](img/ex2.png)
+
+## Exercicio 3 - Min Cost to Connect All Points
+
+
+Dificuldade: Médio
+Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+
+![](img/ex3.png)
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: javaScript<br>
+
+Caso queira testar localmente é necessário ter o nodeJS instalado
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para verificar o funcionamento basta abrir o link do exercicio e copiar o código referente a questão, e logo após realizar o envio. Caso queira verificar localmente, é necessário adicionar a chamada da função principal com seus devidos paramêtros. para rodar basta utilizar o comando:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+`node NomeDoArquivo.js`
+
 
 
 
