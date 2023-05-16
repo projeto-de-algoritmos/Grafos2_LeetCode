@@ -19,13 +19,13 @@ Este repositório contém a resolução de 3 exercicios relacionados a Grafos, c
 
 ## Exercicio 1 - Network Delay Time
 
-Dificuldade: Médio
+Dificuldade: Médio <br>
 Link: [Network Delay time](https://leetcode.com/problems/network-delay-time/)
 
 ![](img/ex1.png)
 
 ## Exercicio 2 - Reachable Nodes in Subdivided Graph
-Dificuldade: Difícil
+Dificuldade: Difícil <br>
 Link: [Reachable Nodes in Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
 
 ![](img/ex2.png)
@@ -33,7 +33,7 @@ Link: [Reachable Nodes in Subdivided Graph](https://leetcode.com/problems/reacha
 ## Exercicio 3 - Min Cost to Connect All Points
 
 
-Dificuldade: Médio
+Dificuldade: Médio <br>
 Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
 ![](img/ex3.png)
